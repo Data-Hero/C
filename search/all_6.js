@@ -21,12 +21,14 @@ var searchData=
   ['display_5fpolynomial_18',['display_polynomial',['../d0/dcb/poly__add_8c.html#ab9b9bedcb99f279d491d1b856791a36d',1,'poly_add.c']]],
   ['divisors_19',['divisors',['../d5/d3d/problem__5_2sol2_8c.html#adb59595677da81f071c34f3847fdbaa6',1,'sol2.c']]],
   ['djb2_20',['djb2',['../d7/d3b/group__hash.html#ga1ac362fa25f7c35d104205985f8e754b',1,'hash_djb2.c']]],
-  ['dot_5fprod_21',['dot_prod',['../de/d7b/group__vec__3d.html#ga243e74d542d0d4d14fa3ae0bc2170d84',1,'vectors_3d.c']]],
-  ['doubly_5flinked_5flist_2ec_22',['doubly_linked_list.c',['../dd/d29/doubly__linked__list_8c.html',1,'']]],
-  ['dual_23',['dual',['../de/d58/structquaternion__.html#a596abbab688731119c1f23b26a7ac17a',1,'quaternion_::dual()'],['../d7/dfd/structdual__quat__.html#a1b05fbc4135e4f9b731423f26527543d',1,'dual_quat_::dual()']]],
-  ['dual_5fquat_24',['dual_quat',['../d4/d69/group__dual__quats.html#ga27005601c47e5bb7aafe77659e76c88f',1,'geometry_datatypes.h']]],
-  ['dual_5fquat_5f_25',['dual_quat_',['../d7/dfd/structdual__quat__.html',1,'']]],
-  ['duplicatenumber_26',['duplicateNumber',['../d2/d9b/floyd__cycle__detection__algorithm_8c.html#ac7af29ae53c6659f2881fb080b080f9d',1,'floyd_cycle_detection_algorithm.c']]],
-  ['durand_5fkerner_5froots_2ec_27',['durand_kerner_roots.c',['../da/d38/durand__kerner__roots_8c.html',1,'']]],
-  ['dynamic_5farray_28',['dynamic_array',['../d6/d42/structdynamic__array.html',1,'']]]
+  ['dnf_5fsort_2ec_21',['dnf_sort.c',['../d5/d4f/dnf__sort_8c.html',1,'']]],
+  ['dnfsort_22',['dnfSort',['../d5/d4f/dnf__sort_8c.html#ab346f983a48549dd329d0259913a620e',1,'dnf_sort.c']]],
+  ['dot_5fprod_23',['dot_prod',['../de/d7b/group__vec__3d.html#ga243e74d542d0d4d14fa3ae0bc2170d84',1,'vectors_3d.c']]],
+  ['doubly_5flinked_5flist_2ec_24',['doubly_linked_list.c',['../dd/d29/doubly__linked__list_8c.html',1,'']]],
+  ['dual_25',['dual',['../d7/dfd/structdual__quat__.html#a1b05fbc4135e4f9b731423f26527543d',1,'dual_quat_::dual()'],['../de/d58/structquaternion__.html#a596abbab688731119c1f23b26a7ac17a',1,'quaternion_::dual()']]],
+  ['dual_5fquat_26',['dual_quat',['../d4/d69/group__dual__quats.html#ga27005601c47e5bb7aafe77659e76c88f',1,'geometry_datatypes.h']]],
+  ['dual_5fquat_5f_27',['dual_quat_',['../d7/dfd/structdual__quat__.html',1,'']]],
+  ['duplicatenumber_28',['duplicateNumber',['../d2/d9b/floyd__cycle__detection__algorithm_8c.html#ac7af29ae53c6659f2881fb080b080f9d',1,'floyd_cycle_detection_algorithm.c']]],
+  ['durand_5fkerner_5froots_2ec_29',['durand_kerner_roots.c',['../da/d38/durand__kerner__roots_8c.html',1,'']]],
+  ['dynamic_5farray_30',['dynamic_array',['../d6/d42/structdynamic__array.html',1,'']]]
 ];

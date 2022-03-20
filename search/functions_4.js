@@ -11,6 +11,7 @@ var searchData=
   ['display_8',['display',['../dc/d2e/lu__decompose_8c.html#a0789beb8d3396582d77b7aedf5e5554a',1,'display(double **A, int N):&#160;lu_decompose.c'],['../d5/d4c/group__sorting.html#gad7ed8cc4603f500d610054680d28b971',1,'display(const int *arr, int n):&#160;bead_sort.c'],['../dd/de4/bubble__sort_8c.html#ad7ed8cc4603f500d610054680d28b971',1,'display(const int *arr, int n):&#160;bubble_sort.c']]],
   ['display_5fpolynomial_9',['display_polynomial',['../d0/dcb/poly__add_8c.html#ab9b9bedcb99f279d491d1b856791a36d',1,'poly_add.c']]],
   ['djb2_10',['djb2',['../d7/d3b/group__hash.html#ga1ac362fa25f7c35d104205985f8e754b',1,'hash_djb2.c']]],
-  ['dot_5fprod_11',['dot_prod',['../de/d7b/group__vec__3d.html#ga243e74d542d0d4d14fa3ae0bc2170d84',1,'vectors_3d.c']]],
-  ['duplicatenumber_12',['duplicateNumber',['../d2/d9b/floyd__cycle__detection__algorithm_8c.html#ac7af29ae53c6659f2881fb080b080f9d',1,'floyd_cycle_detection_algorithm.c']]]
+  ['dnfsort_11',['dnfSort',['../d5/d4f/dnf__sort_8c.html#ab346f983a48549dd329d0259913a620e',1,'dnf_sort.c']]],
+  ['dot_5fprod_12',['dot_prod',['../de/d7b/group__vec__3d.html#ga243e74d542d0d4d14fa3ae0bc2170d84',1,'vectors_3d.c']]],
+  ['duplicatenumber_13',['duplicateNumber',['../d2/d9b/floyd__cycle__detection__algorithm_8c.html#ac7af29ae53c6659f2881fb080b080f9d',1,'floyd_cycle_detection_algorithm.c']]]
 ];
