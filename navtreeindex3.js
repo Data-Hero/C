@@ -1,11 +1,5 @@
 var NAVTREEINDEX3 =
 {
-"dd/d79/remote__command__exec__udp__server_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[15,0,1,2,2],
-"dd/d7a/group__matrix.html":[13,0,1],
-"dd/d7a/group__matrix.html#ga9f844010cb96591fa94c9d533a500ab7":[13,0,1,1],
-"dd/d8b/problem__22_2sol1_8c.html":[15,0,15,11,0],
-"dd/d8b/problem__22_2sol1_8c.html#a3c04138a5bfe5d72780bb7e82a18e627":[15,0,15,11,0,3],
-"dd/d8b/problem__22_2sol1_8c.html#a5bc3659aa0949ea33118c95b1dee5f63":[15,0,15,11,0,4],
 "dd/d8b/problem__22_2sol1_8c.html#a6cb9b08aacb61416795ee78bfceacd38":[15,0,15,11,0,1],
 "dd/d8b/problem__22_2sol1_8c.html#ae359b8a4656b164c91ef91a084c15c9d":[15,0,15,11,0,2],
 "dd/d8b/problem__22_2sol1_8c.html#afd709f201d7643c3909621f620ea648a":[15,0,15,11,0,0],
@@ -180,8 +174,8 @@ var NAVTREEINDEX3 =
 "files.html":[15,0],
 "functions.html":[14,2,0],
 "functions_vars.html":[14,2,1],
-"globals.html":[15,1,0,0],
 "globals.html":[15,1,0],
+"globals.html":[15,1,0,0],
 "globals_a.html":[15,1,0,1],
 "globals_b.html":[15,1,0,2],
 "globals_c.html":[15,1,0,3],
